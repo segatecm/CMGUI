@@ -1,9 +1,11 @@
 # CMGUI
 imgui lib for Processing
 
-A simple easy GUI for [Processing](https://processing.org/) by java language.
+A simple easy IMGUI code for [Processing](https://processing.org/) by java language.
 
-Base GUI elements performed.
+一个简单易用的GUI库, 用IMGUI的方式实现的。
+
+GUI elements performed.
 ## Layout
 ### Vertical flow layout
 ### Horizontal flow layout
