@@ -8,6 +8,7 @@ Base GUI elements performed.
 ### Vertical flow layout
 ### Horizontal flow layout
 ### Vertical Scroll layout
+## Label
 ## Button
 ## CheckButton
 ## Image
