@@ -9,7 +9,7 @@ GUI elements performed.
 * Layout
   - Vertical flow layout
   - Horizontal flow layout
-  - Vertical Scroll layout
+  - Horizontal Scroll layout
 * Label
 * Button
 * CheckButton
